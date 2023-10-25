@@ -1,0 +1,18 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.task-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.task-create{
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
